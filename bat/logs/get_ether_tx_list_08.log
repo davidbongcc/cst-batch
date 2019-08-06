@@ -1,0 +1,47 @@
+[2019-08-06 16:14:58]  [7460] [INFO] main() - START
+[2019-08-06 16:22:10]  [9924] [INFO] main() - START
+[2019-08-06 16:22:10]  [9924] [INFO] get_token_tx()
+[2019-08-06 16:22:11]  [9924] [INFO] get_token_tx() - Http request successfully with status code:200
+[2019-08-06 16:22:11]  [9924] [INFO] get_tx_list()
+[2019-08-06 16:22:11]  [9924] [INFO] get_tx_list() - Http request successfully with status code:200
+[2019-08-06 16:22:11]  [9924] [INFO] get_tx_list() - get start block [%s]
+[2019-08-06 16:22:31]  [15440] [INFO] main() - START
+[2019-08-06 16:22:31]  [15440] [INFO] get_token_tx()
+[2019-08-06 16:22:32]  [15440] [INFO] get_token_tx() - Http request successfully with status code:200
+[2019-08-06 16:22:32]  [15440] [INFO] get_tx_list()
+[2019-08-06 16:22:32]  [15440] [INFO] get_tx_list() - Http request successfully with status code:200
+[2019-08-06 16:22:32]  [15440] [INFO] get_tx_list() - get start block ['%s']
+[2019-08-06 16:23:09]  [16144] [INFO] main() - START
+[2019-08-06 16:23:09]  [16144] [INFO] get_token_tx()
+[2019-08-06 16:23:09]  [16144] [INFO] get_token_tx() - Http request successfully with status code:200
+[2019-08-06 16:23:09]  [16144] [INFO] get_tx_list()
+[2019-08-06 16:23:10]  [16144] [INFO] get_tx_list() - Http request successfully with status code:200
+[2019-08-06 16:23:10]  [16144] [INFO] get_tx_list() - get start block:6130928
+[2019-08-06 16:41:51]  [12636] [INFO] main() - START
+[2019-08-06 16:41:51]  [12636] [INFO] get_token_tx()
+[2019-08-06 16:41:51]  [12636] [INFO] get_token_tx() - Http request successfully with status code:200
+[2019-08-06 16:41:51]  [12636] [INFO] get_tx_list()
+[2019-08-06 16:41:52]  [12636] [INFO] get_tx_list() - Http request successfully with status code:200
+[2019-08-06 16:41:52]  [12636] [INFO] get_tx_list() - get start block:6136676
+[2019-08-06 16:41:52]  [12636] [INFO] create_tx_list()
+[2019-08-06 16:41:52]  [12636] [INFO] mk_orders_list()
+[2019-08-06 16:41:52]  [12636] [INFO] mk_orders_list() - Successfully connected to the database.
+[2019-08-06 16:41:52]  [12636] [INFO] EMAIL: [test2@gmail.com]
+[2019-08-06 16:41:52]  [12636] [INFO] USER_NAME: [yamamoto]
+[2019-08-06 16:41:52]  [12636] [INFO] ETHER_ADRESS: [0x630164ab9601f734ed0dc5465f0b12f65cbb8857]
+[2019-08-06 16:41:52]  [12636] [INFO] PAYOUT_TX_HASH: [0x54beb187c60bffffe7cdc6383afbf8614e2df7f12f0636dad7fe20b11043c30b]
+[2019-08-06 16:41:52]  [12636] [INFO] DEPOSIT_AMOUNT: [6]
+[2019-08-06 16:41:52]  [12636] [INFO] PAYOUT_AMOUNT: [30000]
+[2019-08-06 16:41:52]  [12636] [INFO] PAYOUT_DT: [1565077161]
+[2019-08-06 16:43:10]  [16104] [INFO] main() - START
+[2019-08-06 16:43:10]  [16104] [INFO] get_token_tx()
+[2019-08-06 16:43:11]  [16104] [INFO] get_token_tx() - Http request successfully with status code:200
+[2019-08-06 16:43:11]  [16104] [INFO] get_tx_list()
+[2019-08-06 16:43:11]  [16104] [INFO] get_tx_list() - Http request successfully with status code:200
+[2019-08-06 16:43:11]  [16104] [INFO] get_tx_list() - transaction list count 0 exit.
+[2019-08-06 16:47:16]  [9044] [INFO] main() - START
+[2019-08-06 16:47:16]  [9044] [INFO] get_token_tx()
+[2019-08-06 16:47:17]  [9044] [INFO] get_token_tx() - Http request successfully with status code:200
+[2019-08-06 16:47:17]  [9044] [INFO] get_tx_list()
+[2019-08-06 16:47:17]  [9044] [INFO] get_tx_list() - Http request successfully with status code:200
+[2019-08-06 16:47:17]  [9044] [INFO] get_tx_list() - transaction list count 0 exit.
