@@ -96,10 +96,12 @@ def main():
     startblock = tx_list[1]
     orders_list = create_tx_list(tx_list[0], token_tx)
 
-    result = mk_orders_list(db, dbuser, dbpasswd, dbhost, dbcharset, orders_list)
-
-    if result == True:
+    if not orders_list:
         update_start_block(startblock, etherscan_api, inifile, set_path.abs_path)
+    else:
+        result = mk_orders_list(db, dbuser, dbpasswd, dbhost, dbcharset, orders_list)
+        if result is True:
+            update_start_block(startblock, etherscan_api, inifile, set_path.abs_path)
 
 
 def get_token_tx(url, p_module, p_startblock, p_endblock, p_sort, p_apikey, p_address):
